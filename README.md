@@ -14,10 +14,8 @@ A curated list of amazingly awesome Drupal 8 resources and shiny things.
 
 ## Cahing and Performance
 
-| Name | Type |
-| ---- | ---- |
-| [Drupal 8's Dynamic Page Cache](http://wimleers.com/article/drupal-8-dynamic-page-cache) | Blog Post |
-| [Making Drupal fly - The fastest Drupal ever is here!](https://events.drupal.org/barcelona2015/sessions/making-drupal-fly-fastest-drupal-ever-here) | DrupalCon Barcelona |
+* [Drupal 8's Dynamic Page Cache](http://wimleers.com/article/drupal-8-dynamic-page-cache)
+* [Making Drupal fly - The fastest Drupal ever is here!](https://events.drupal.org/barcelona2015/sessions/making-drupal-fly-fastest-drupal-ever-here) from DrupalCon Barcelona
 
 ## Theming
 
