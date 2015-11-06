@@ -12,6 +12,8 @@ A curated list of amazingly awesome Drupal 8 resources and shiny things.
 
 ## Render System
 
+* [Drupal 8's render pipeline](https://events.drupal.org/losangeles2015/sessions/drupal-8s-render-pipeline)
+
 ## Cahing and Performance
 
 * [Drupal 8's Dynamic Page Cache](http://wimleers.com/article/drupal-8-dynamic-page-cache)
